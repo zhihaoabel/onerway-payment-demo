@@ -31,6 +31,7 @@ public class ServerDemo {
     private static final String MERCHANT_NO = "REPLACE_WITH_MERCHANT_NO";
     private static final String DEFAULT_APP_ID = "REPLACE_WITH_APP_ID";
     private static final String MERCHANT_SECRET = "REPLACE_WITH_MERCHANT_SECRET";
+    
     private static final String DEFAULT_RETURN_URL = "https://merchant.example.com/pay/return";
     private static final String DEFAULT_NOTIFY_URL = "https://merchant.example.com/pay/notify";
 
